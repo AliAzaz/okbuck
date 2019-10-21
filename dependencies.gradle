@@ -3,8 +3,8 @@
 // Gradle Cache Version 3
 
 def versions = [
-        androidPlugin      : "3.5.0",
-        androidTools       : "26.5.0",
+        androidPlugin      : "3.5.1",
+        androidTools       : "26.5.1",
         androidx           : "1.0.0",
         androidxMultidex   : "2.0.1",
         autoValue          : "1.6.6",
